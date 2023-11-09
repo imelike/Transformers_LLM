@@ -23,10 +23,9 @@ We will cover all these topics with sample implementations in **Python / TensorF
 We will use a [Kaggle Dataset](https://www.kaggle.com/savasy/multiclass-classification-data-for-turkish-tc32?select=ticaret-yorum.csv) in which there are 32 topics and more than 400K total reviews.
 
 At the end of this tutorial, we will be able to generate text using a GPT2 transformer model trained on a Turkish review dataset as below:
+![download](https://github.com/imelike/Transformers_LLM/assets/128046415/b06fbf40-0c14-4ec4-980c-6f8fba6bc7fe)
 
-![image](https://github.com/imelike/Transformers_LLM/assets/128046415/3bc9ecb5-27a1-4d2a-91c1-5a84459f302e)
-
-![download](https://github.com/imelike/Transformers_LLM/assets/128046415/92ce0f10-0b11-4558-a726-bbbf591341ed)
+![download](https://github.com/imelike/Transformers_LLM/assets/128046415/6fc34e77-10ef-46d2-ae90-466fd1434b36)
 
 #
 
