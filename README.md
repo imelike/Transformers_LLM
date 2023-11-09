@@ -12,10 +12,10 @@
 (TR)
 **Tanım:** 
 * İlk önce 🤗 Hugging Face hesabı oluşturup aşağıdaki gibi token oluşturalım
-![image](https://github.com/imelike/Transformers_LLM/assets/128046415/4fa85d4f-7a09-4d8b-af44-ce88c153127b)
+* ![image](https://github.com/imelike/Transformers_LLM/assets/128046415/4fa85d4f-7a09-4d8b-af44-ce88c153127b)
 
 * Bu token'ı aşağıdaki yere yapıştıralım
-![image](https://github.com/imelike/Transformers_LLM/assets/128046415/f1c8969a-a041-47d8-9de3-d89f839e121c)
+* ![image](https://github.com/imelike/Transformers_LLM/assets/128046415/f1c8969a-a041-47d8-9de3-d89f839e121c)
 
 
 * CSV dosyasından 🤗 Hugging Face'in kabul edeceği bir veri seti oluşturulacak, oluşturulan veri seti ön işleme yapılacak bu ön işleme için 🤗 Hugging Face'in Datasets API'si kullanılacak
