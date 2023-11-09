@@ -1,5 +1,7 @@
 # Transformers_LLM
 
+**Author:** [Melike Akalan](https://www.linkedin.com/in/melikeakalan/)<br>
+
 **Description:** In this tutorial series, we will learn and use the 🤗 Hugging Face Transformer API  
 
 * how to build and preprocess a Custom Dataset from a CSV file with the 🤗 Hugging Face Datasets API
